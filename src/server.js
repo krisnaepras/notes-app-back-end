@@ -1,4 +1,3 @@
-/* eslint-disable eol-last */
 const Hapi = require('@hapi/hapi');
 const routes = require('./routes');
 
